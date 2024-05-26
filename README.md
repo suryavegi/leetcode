@@ -23,7 +23,7 @@ This repository is a collection of my solutions to LeetCode problems. Each solut
 
 Below is a list of the problems I have solved. Click on a problem to view the detailed solution.
 
-1. [Roman to Integer](solutions/RomanToInteger.md)
+1. [Roman to Integer](src/main/java/com/leetcode/easy/ConvertRomanNumbers.java)
 
 *Continue to add problems as you solve them.*
 
