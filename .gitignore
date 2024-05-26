@@ -1,0 +1,5 @@
+# Exclude IntelliJ IDEA project files
+.idea/
+
+# Exclude target directory
+target/
